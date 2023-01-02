@@ -4,4 +4,5 @@ Follow these steps to add a README file.
 3. Check git status.
 4. Stage and commit the file.
 5. Push the changes to your branch.
-
+6. git remote -v // Shows what all the repositories are there
+7. git diff // This will show changes which are performed 
